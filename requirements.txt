@@ -1,0 +1,8 @@
+Requests == 2.28.2
+pyTelegramBotAPI == 4.10.0
+python-dotenv == 1.0.0
+lxml == 4.9.2
+SQLAlchemy == 2.0.9
+alembic == 1.10.3
+python-telegram-bot-calendar==1.0.5
+psycopg2-binary==2.9.6
